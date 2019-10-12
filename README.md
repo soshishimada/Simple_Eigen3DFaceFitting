@@ -1,5 +1,5 @@
 # Simple Eigen 3D Face Fitting
-Simple python implementation for eigen 3D face fitting--
+Quite simple python3 implementation for eigen 3D face fitting
 
 ![](outputs.png)
 - Run PCA_FACE.ipynb to apply fitting to the target 3D face using the eigen 3D faces. The program saves the result and mean face.
