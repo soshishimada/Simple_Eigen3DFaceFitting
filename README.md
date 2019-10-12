@@ -1,4 +1,4 @@
-# Simple_Eigen3DFaceFitting
+# Simple Eigen 3D Face Fitting
 Simple python implementation for eigen 3D face fitting--
 
 ![](outputs.png)
